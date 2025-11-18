@@ -1,21 +1,19 @@
-MIT License
+Sigmoid Open-Source License (SOSL-1.0)
 
-Copyright (c) 2025 Sigmoid
+1. License Grant
+You are free to use, modify, distribute, and share the code, as long as you comply with this license.
+This code cannot be used for commercial purposes except by Sigmoid.
+Any derivative or child project using this code must also comply with this license.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Restrictions
+Non-Commercial Use: You cannot use the code, in whole or in part, for any commercial purposes, including selling, licensing, or monetizing through software-as-a-service, unless you have explicit permission from Sigmoid.
+Sigmoid's Exclusive Rights: Sigmoid, as an organization, retains the exclusive commercial rights to use, distribute, and monetize the code.
+Share-Alike: If you modify or extend this project, your work must also be licensed under this exact same license.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. Enforcement
+If you fail to comply with these terms, your rights to use the code will be revoked immediately.
+Sigmoid reserves the right to enforce this license and take legal action if necessary.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. Disclaimer
+This software is provided as-is, without any warranties or guarantees.
+Sigmoid is not responsible for any issues that arise from using the code.
