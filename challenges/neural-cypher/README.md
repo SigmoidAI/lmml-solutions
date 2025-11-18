@@ -108,7 +108,7 @@ Example format: If Flag 1 = "HELLO" and Flag 2 = "WORLD", the final flag would b
 
 ### Extracting the Hidden Flag from a T5 Model
 
-This document explains, step by step, how the flag is hidden in a shared weight tensor and how to extract it.
+This following sections explain, step by step, how the flag is hidden in a shared weight tensor and how to extract it.
 
 At the end there is a **full script** you can copy-paste.
 
